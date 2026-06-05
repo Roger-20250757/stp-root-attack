@@ -4,6 +4,7 @@
 **Matrícula:** 20250757  
 **Fecha:** Junio 2026  
 
+**Link:** https://youtu.be/558dnZWvHTk
 ---
 
 ## Objetivo del laboratorio
